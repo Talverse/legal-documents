@@ -37,9 +37,6 @@ This Privacy Notice for Akhyar Foundation Ltd & Al Anwar Najafiya Foundation ("*
 
 Want to learn more about what we do with any information we collect? [Review the Privacy Notice in full](#toc).
 
-## TABLE OF CONTENTS
-
-   
 
 ## TABLE OF CONTENTS
 
