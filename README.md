@@ -11,6 +11,7 @@ legal-documents/
 ├── 7grains/
 │   ├── privacy-policy.md          # Latest Privacy Policy for 7grains
 │   ├── terms-and-conditions.md    # Latest Terms & Conditions for 7grains
+│   ├── versions.yaml              # versioning
 │   └── README.md                  # Optional README for product-specific info
 └── README.md                      # Root README (this file)
 ```
@@ -25,32 +26,30 @@ legal-documents/
 
 ## File Versioning
 
-Each document file should contain a header like this:
-
-```markdown
----
-Document: Privacy Policy
-Version: 1.0
-Effective Date: 2025-12-15
----
-
-# Privacy Policy
-
-Document content goes here...
-```
-
-### Versioning Rules
-
-- The **Version** field is mandatory.
-- The version must follow the format:  
-  **`number.number`** (e.g., `1.0`, `1.1`, `2.0`).
-- Versions must be incremented sequentially based on the current version.
-- If the **Version** field is missing or invalid, the system will **break / throw an error**.
+- All document versions are centrally managed in **`versions.yaml`** at the product folder.
+- The **Version** must be specified in `versions.yaml`.
+- Versions must follow the format: **`"number.number"`** (e.g., `"1.0"`, `"1.1"`, `"2.0"`).
+- Versions must be incremented sequentially when document content changes.
+- If the **Version** field is missing, mismatched, or invalid, the system will **break / throw an error**.
 - The file in the **main** branch always represents the **latest published version** of the document.
 
-⚠️ **Important:** Always increment the version number when updating document content.
+### versions.yaml Structure
+```yaml
+privacyPolicy:
+  version: "1.0"
+  effectiveDate: 2025-10-28
+
+termsAndConditions:
+  version: "1.0"
+  effectiveDate: 2025-10-28
+```
+
+⚠️ **Important:** 
+- Always increment the version number in `versions.yaml` when updating document content.
+
 
 > **Note:** The file in the main branch always represents the latest published version.
+
 
 ---
 
@@ -67,7 +66,7 @@ git checkout -b privacy-policy-v1.1.0
 ### 2. Update the document
 
 - Edit the Markdown file (e.g., `privacy-policy.md`)
-- Update the version and effective date in the file header
+- Update the version and effective date in the `versions.yaml` file
 - Make sure the content is final and approved
 
 ### 3. Commit your changes
