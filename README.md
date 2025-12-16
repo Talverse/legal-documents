@@ -30,7 +30,7 @@ Each document file should contain a header like this:
 ```markdown
 ---
 Document: Privacy Policy
-Version: 1.0.0
+Version: 1.0
 Effective Date: 2025-12-15
 ---
 
@@ -41,9 +41,14 @@ Document content goes here...
 
 ### Versioning Rules (Semantic Versioning)
 
-- **MAJOR** → Legal/data-handling changes
-- **MINOR** → Clarifications or non-breaking updates
-- **PATCH** → Typos, formatting changes
+- The **Version** field is mandatory.
+- The version must follow the format:  
+  **`number.number`** (e.g., `1.0`, `1.1`, `2.0`).
+- Versions must be incremented sequentially based on the current version.
+- If the **Version** field is missing or invalid, the system will **break / throw an error**.
+- The file in the **main** branch always represents the **latest published version** of the document.
+
+⚠️ **Important:** Always increment the version number when updating document content.
 
 > **Note:** The file in the main branch always represents the latest published version.
 
@@ -82,8 +87,8 @@ git commit -m "Update Privacy Policy to v1.1.0"
 The merged file is now the latest version. Optionally, tag the commit for major releases:
 
 ```bash
-git tag privacy-policy-v1.1.0
-git push origin privacy-policy-v1.1.0
+git tag privacy-policy-v1.0
+git push origin privacy-policy-v1.1
 ```
 
 ---
@@ -93,8 +98,8 @@ git push origin privacy-policy-v1.1.0
 Always fetch the latest version using the raw file URL:
 
 ```
-https://gitlab.com/<username>/legal-documents/-/raw/main/7grains/privacy-policy.md
-https://gitlab.com/<username>/legal-documents/-/raw/main/7grains/terms-and-conditions.md
+https://raw.githubusercontent.com/Talverse/legal-documents/main/7Grains/privacy-policy.md
+https://raw.githubusercontent.com/Talverse/legal-documents/main/7Grains/terms-and-conditions.md
 ```
 
 - No need to specify a version in the URL
