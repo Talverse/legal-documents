@@ -1,6 +1,6 @@
 ---
 Document: Privacy Policy
-Version: 1.0.0
+Version: 1.0
 Effective Date: 2025-10-28
 ---
 # PRIVACY POLICY
