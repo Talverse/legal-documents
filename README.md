@@ -39,7 +39,7 @@ Effective Date: 2025-12-15
 Document content goes here...
 ```
 
-### Versioning Rules (Semantic Versioning)
+### Versioning Rules
 
 - The **Version** field is mandatory.
 - The version must follow the format:  
