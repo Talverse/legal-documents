@@ -19,7 +19,7 @@ legal-documents/
 ### Notes on Structure
 
 - Each product has its own folder (currently only **7grains**)
-- Each legal document is a single file (Markdown) with the version and effective date in the header
+- Each legal document is a single file (Markdown)
 - Old versions are preserved automatically in Git history, so you can always view or restore previous versions if needed
 
 ---
@@ -27,7 +27,7 @@ legal-documents/
 ## File Versioning
 
 - All document versions are centrally managed in **`versions.yaml`** at the product folder.
-- The **Version** must be specified in `versions.yaml`.
+- The **Version** must be specified in **`versions.yaml`**.
 - Versions must follow the format: **`"number.number"`** (e.g., `"1.0"`, `"1.1"`, `"2.0"`).
 - Versions must be incremented sequentially when document content changes.
 - If the **Version** field is missing, mismatched, or invalid, the system will **break / throw an error**.
@@ -60,7 +60,7 @@ Whenever a new version of a document is required, follow this workflow:
 ### 1. Create a feature branch from main
 
 ```bash
-git checkout -b privacy-policy-v1.1.0
+git checkout -b privacy-policy-v1.1
 ```
 
 ### 2. Update the document
@@ -73,7 +73,7 @@ git checkout -b privacy-policy-v1.1.0
 
 ```bash
 git add 7grains/privacy-policy.md
-git commit -m "Update Privacy Policy to v1.1.0"
+git commit -m "Update Privacy Policy to v1.1"
 ```
 
 ### 4. Create a Merge Request (MR) in GitLab
