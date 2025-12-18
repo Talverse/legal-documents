@@ -28,7 +28,7 @@ legal-documents/
 
 - All document versions are centrally managed in **`versions.yaml`** at the product folder.
 - The **Version** must be specified in **`versions.yaml`**.
-- Versions must follow the format: **`"number.number"`** (e.g., `"1.0"`, `"1.1"`, `"2.0"`).
+- Versions must follow the format: **`"vnumber.number"`** (e.g., `"v1.0"`, `"v1.1"`, `"v2.0"`).
 - Versions must be incremented sequentially when document content changes.
 - If the **Version** field is missing, mismatched, or invalid, the system will **break / throw an error**.
 - The file in the **main** branch always represents the **latest published version** of the document.
@@ -36,11 +36,11 @@ legal-documents/
 ### versions.yaml Structure
 ```yaml
 privacyPolicy:
-  version: "1.0"
+  version: "v1.0"
   effectiveDate: 2025-10-28
 
 termsAndConditions:
-  version: "1.0"
+  version: "v1.0"
   effectiveDate: 2025-10-28
 ```
 
