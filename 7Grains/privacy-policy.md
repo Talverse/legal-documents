@@ -2,7 +2,7 @@
 
 **Last updated October 28, 2025**
 
-This Privacy Notice for Akhyar Foundation Ltd & Al Anwar Najafiya Foundation ("**we**," "**us**," or "**our**"), describes how and why we might access, collect, store, use, and/or share ("**process**") your personal information when you use our services ("**Services**"), including when you:
+This is test QA Privacy Notice for Akhyar Foundation Ltd & Al Anwar Najafiya Foundation ("**we**," "**us**," or "**our**"), describes how and why we might access, collect, store, use, and/or share ("**process**") your personal information when you use our services ("**Services**"), including when you:
 
 *   Visit our website at [https://7grains.org](https://7grains.org) or any website of ours that links to this Privacy Notice
 
