@@ -4,7 +4,7 @@
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
-We are Akhyar Foundation Ltd, doing business as Akhyar ("**Company**," "**we**," "**us**," "**our**"). Our VAT number is 26661296939.
+We are QA test Akhyar Foundation Ltd, doing business as Akhyar ("**Company**," "**we**," "**us**," "**our**"). Our VAT number is 26661296939.
 
 We operate the website [https://7grains.org](https://7grains.org) (the "**Site**"), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms**") (collectively, the "**Services**").
 
@@ -20,42 +20,49 @@ We recommend that you print a copy of these Legal Terms for your records.
 
 ## TABLE OF CONTENTS
 
-- [1. OUR SERVICES](#1-our-services)
-- [2. INTELLECTUAL PROPERTY RIGHTS](#2-intellectual-property-rights)
-  - [Our intellectual property](#our-intellectual-property)
-  - [Your use of our Services](#your-use-of-our-services)
-  - [Your submissions](#your-submissions)
-- [3. USER REPRESENTATIONS](#3-user-representations)
-- [4. USER REGISTRATION](#4-user-registration)
-- [5. PURCHASES AND PAYMENT](#5-purchases-and-payment)
-- [6. SUBSCRIPTIONS](#6-subscriptions)
-  - [Billing and Renewal](#billing-and-renewal)
-  - [Cancellation](#cancellation)
-  - [Fee Changes](#fee-changes)
-- [7. POLICY](#7-policy)
-- [8. PROHIBITED ACTIVITIES](#8-prohibited-activities)
-- [9. USER GENERATED CONTRIBUTIONS](#9-user-generated-contributions)
-- [10. CONTRIBUTION LICENSE](#10-contribution-license)
-- [11. SOCIAL MEDIA](#11-social-media)
-- [12. THIRD-PARTY WEBSITES AND CONTENT](#12-third-party-websites-and-content)
-- [13. SERVICES MANAGEMENT](#13-services-management)
-- [14. TERM AND TERMINATION](#14-term-and-termination)
-- [15. MODIFICATIONS AND INTERRUPTIONS](#15-modifications-and-interruptions)
-- [16. GOVERNING LAW](#16-governing-law)
-- [17. DISPUTE RESOLUTION](#17-dispute-resolution)
-  - [Informal Negotiations](#informal-negotiations)
-  - [Binding Arbitration](#binding-arbitration)
-  - [Restrictions](#restrictions)
-  - [Exceptions to Informal Negotiations and Arbitration](#exceptions-to-informal-negotiations-and-arbitration)
-- [18. CORRECTIONS](#18-corrections)
-- [19. DISCLAIMER](#19-disclaimer)
-- [20. LIMITATIONS OF LIABILITY](#20-limitations-of-liability)
-- [21. INDEMNIFICATION](#21-indemnification)
-- [22. USER DATA](#22-user-data)
-- [23. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES](#23-electronic-communications-transactions-and-signatures)
-- [24. CALIFORNIA USERS AND RESIDENTS](#24-california-users-and-residents)
-- [25. MISCELLANEOUS](#25-miscellaneous)
-- [26. CONTACT US](#26-contact-us)
+* [1. OUR SERVICES](#1-our-services)
+* [2. INTELLECTUAL PROPERTY RIGHTS](#2-intellectual-property-rights)
+
+  * [Our intellectual property](#our-intellectual-property)
+  * [Your use of our Services](#your-use-of-our-services)
+  * [Your submissions](#your-submissions)
+
+* [3. USER REPRESENTATIONS](#3-user-representations)
+* [4. USER REGISTRATION](#4-user-registration)
+* [5. PURCHASES AND PAYMENT](#5-purchases-and-payment)
+* [6. SUBSCRIPTIONS](#6-subscriptions)
+
+  * [Billing and Renewal](#billing-and-renewal)
+  * [Cancellation](#cancellation)
+  * [Fee Changes](#fee-changes)
+
+* [7. POLICY](#7-policy)
+* [8. PROHIBITED ACTIVITIES](#8-prohibited-activities)
+* [9. USER GENERATED CONTRIBUTIONS](#9-user-generated-contributions)
+* [10. CONTRIBUTION LICENSE](#10-contribution-license)
+* [11. SOCIAL MEDIA](#11-social-media)
+* [12. THIRD-PARTY WEBSITES AND CONTENT](#12-third-party-websites-and-content)
+* [13. SERVICES MANAGEMENT](#13-services-management)
+* [14. TERM AND TERMINATION](#14-term-and-termination)
+* [15. MODIFICATIONS AND INTERRUPTIONS](#15-modifications-and-interruptions)
+* [16. GOVERNING LAW](#16-governing-law)
+* [17. DISPUTE RESOLUTION](#17-dispute-resolution)
+
+  * [Informal Negotiations](#informal-negotiations)
+  * [Binding Arbitration](#binding-arbitration)
+  * [Restrictions](#restrictions)
+  * [Exceptions to Informal Negotiations and Arbitration](#exceptions-to-informal-negotiations-and-arbitration)
+
+* [18. CORRECTIONS](#18-corrections)
+* [19. DISCLAIMER](#19-disclaimer)
+* [20. LIMITATIONS OF LIABILITY](#20-limitations-of-liability)
+* [21. INDEMNIFICATION](#21-indemnification)
+* [22. USER DATA](#22-user-data)
+* [23. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES](#23-electronic-communications-transactions-and-signatures)
+* [24. CALIFORNIA USERS AND RESIDENTS](#24-california-users-and-residents)
+* [25. MISCELLANEOUS](#25-miscellaneous)
+* [26. CONTACT US](#26-contact-us)
+
 
 
 ## 1\. OUR SERVICES
@@ -78,8 +85,8 @@ The Content and Marks are provided in or through the Services "AS IS" for your p
 
 Subject to your compliance with these Legal Terms, including the "[PROHIBITED ACTIVITIES](#prohibited)" section below, we grant you a non-exclusive, non-transferable, revocable license to:
 
-*   access the Services; and
-*   download or print a copy of any portion of the Content to which you have properly gained access,
+* access the Services; and
+* download or print a copy of any portion of the Content to which you have properly gained access,
 
 solely for your personal, non-commercial use or internal business purpose.
 
@@ -99,10 +106,10 @@ Please review this section and the "[PROHIBITED ACTIVITIES](#prohibited)" sectio
 
 **You are responsible for what you post or upload:** By sending us Submissions through any part of the Services you:
 
-*   confirm that you have read and agree with our "[PROHIBITED ACTIVITIES](#prohibited)" and will not post, send, publish, upload, or transmit through the Services any Submission that is illegal, harassing, hateful, harmful, defamatory, obscene, bullying, abusive, discriminatory, threatening to any person or group, sexually explicit, false, inaccurate, deceitful, or misleading;
-*   to the extent permissible by applicable law, waive any and all moral rights to any such Submission;
-*   warrant that any such Submission are original to you or that you have the necessary rights and licenses to submit such Submissions and that you have full authority to grant us the above-mentioned rights in relation to your Submissions; and
-*   warrant and represent that your Submissions do not constitute confidential information.
+* confirm that you have read and agree with our "[PROHIBITED ACTIVITIES](#prohibited)" and will not post, send, publish, upload, or transmit through the Services any Submission that is illegal, harassing, hateful, harmful, defamatory, obscene, bullying, abusive, discriminatory, threatening to any person or group, sexually explicit, false, inaccurate, deceitful, or misleading;
+* to the extent permissible by applicable law, waive any and all moral rights to any such Submission;
+* warrant that any such Submission are original to you or that you have the necessary rights and licenses to submit such Submissions and that you have full authority to grant us the above-mentioned rights in relation to your Submissions; and
+* warrant and represent that your Submissions do not constitute confidential information.
 
 You are solely responsible for your Submissions and you expressly agree to reimburse us for any and all losses that we may suffer because of your breach of (a) this section, (b) any third party’s intellectual property rights, or (c) applicable law.
 
@@ -156,47 +163,47 @@ You may not access or use the Services for any purpose other than that for which
 
 As a user of the Services, you agree not to:
 
-*   Systematically retrieve data or other content from the Services to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
-*   Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
-*   Circumvent, disable, or otherwise interfere with security-related features of the Services, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Services and/or the Content contained therein.
-*   Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Services.
-*   Use any information obtained from the Services in order to harass, abuse, or harm another person.
-*   Make improper use of our support services or submit false reports of abuse or misconduct.
-*   Use the Services in a manner inconsistent with any applicable laws or regulations.
-*   Engage in unauthorized framing of or linking to the Services.
-*   Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Services or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Services.
-*   Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
-*   Delete the copyright or other proprietary rights notice from any Content.
-*   Attempt to impersonate another user or person or use the username of another user.
-*   Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats ("gifs"), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as "spyware" or "passive collection mechanisms" or "pcms").
-*   Interfere with, disrupt, or create an undue burden on the Services or the networks or services connected to the Services.
-*   Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Services to you.
-*   Attempt to bypass any measures of the Services designed to prevent or restrict access to the Services, or any portion of the Services.
-*   Copy or adapt the Services' software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
-*   Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Services.
-*   Except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Services, or use or launch any unauthorized script or other software.
-*   Use a buying agent or purchasing agent to make purchases on the Services.
-*   Make any unauthorized use of the Services, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
-*   Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavor or commercial enterprise.
-*   Use the Services to advertise or offer to sell goods and services.
+* Systematically retrieve data or other content from the Services to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
+* Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
+* Circumvent, disable, or otherwise interfere with security-related features of the Services, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Services and/or the Content contained therein.
+* Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Services.
+* Use any information obtained from the Services in order to harass, abuse, or harm another person.
+* Make improper use of our support services or submit false reports of abuse or misconduct.
+* Use the Services in a manner inconsistent with any applicable laws or regulations.
+* Engage in unauthorized framing of or linking to the Services.
+* Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Services or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Services.
+* Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
+* Delete the copyright or other proprietary rights notice from any Content.
+* Attempt to impersonate another user or person or use the username of another user.
+* Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats ("gifs"), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as "spyware" or "passive collection mechanisms" or "pcms").
+* Interfere with, disrupt, or create an undue burden on the Services or the networks or services connected to the Services.
+* Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Services to you.
+* Attempt to bypass any measures of the Services designed to prevent or restrict access to the Services, or any portion of the Services.
+* Copy or adapt the Services' software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
+* Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Services.
+* Except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Services, or use or launch any unauthorized script or other software.
+* Use a buying agent or purchasing agent to make purchases on the Services.
+* Make any unauthorized use of the Services, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
+* Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavor or commercial enterprise.
+* Use the Services to advertise or offer to sell goods and services.
 
 ## 9\. USER GENERATED CONTRIBUTIONS
 
 The Services does not offer users to submit or post content. We may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Services, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). Contributions may be viewable by other users of the Services and through third-party websites. When you create or make available any Contributions, you thereby represent and warrant that:
 
-*   The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
-*   You are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Services, and other users of the Services to use your Contributions in any manner contemplated by the Services and these Legal Terms.
-*   You have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Services and these Legal Terms.
-*   Your Contributions are not false, inaccurate, or misleading.
-*   Your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
-*   Your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
-*   Your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
-*   Your Contributions are not used to harass or threaten (in the legal sense of those terms) any other person and to promote violence against a specific person or class of people.
-*   Your Contributions do not violate any applicable law, regulation, or rule.
-*   Your Contributions do not violate the privacy or publicity rights of any third party.
-*   Your Contributions do not violate any applicable law concerning child pornography, or otherwise intended to protect the health or well-being of minors.
-*   Your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
-*   Your Contributions do not otherwise violate, or link to material that violates, any provision of these Legal Terms, or any applicable law or regulation.
+* The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
+* You are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Services, and other users of the Services to use your Contributions in any manner contemplated by the Services and these Legal Terms.
+* You have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Services and these Legal Terms.
+* Your Contributions are not false, inaccurate, or misleading.
+* Your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
+* Your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
+* Your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
+* Your Contributions are not used to harass or threaten (in the legal sense of those terms) any other person and to promote violence against a specific person or class of people.
+* Your Contributions do not violate any applicable law, regulation, or rule.
+* Your Contributions do not violate the privacy or publicity rights of any third party.
+* Your Contributions do not violate any applicable law concerning child pornography, or otherwise intended to protect the health or well-being of minors.
+* Your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
+* Your Contributions do not otherwise violate, or link to material that violates, any provision of these Legal Terms, or any applicable law or regulation.
 
 Any use of the Services in violation of the foregoing violates these Legal Terms and may result in, among other things, termination or suspension of your rights to use the Services.
 
@@ -298,4 +305,5 @@ In order to resolve a complaint regarding the Services or to receive further inf
 
 **Australia**
 
-****[support@7grains.org](mailto:support@7grains.org)****
+[**support@7grains.org**](mailto:support@7grains.org)
+
